@@ -1,7 +1,7 @@
 // AppRouter
 
 // Router Components
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // Components
 import Header from "../components/Header";
@@ -16,7 +16,7 @@ import PageNotFound from "../pages/PageNotFound";
 
 function AppRouter() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Header />
       <div className="wrapper">
         <main>
@@ -32,7 +32,7 @@ function AppRouter() {
         </main>
       </div>
       <Footer />
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
