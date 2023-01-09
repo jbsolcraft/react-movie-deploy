@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-movie-deploy/static/css/main.f1c9284b.css",
+    "main.js": "/react-movie-deploy/static/js/main.a73a8150.js",
+    "static/media/starrynight.jpg": "/react-movie-deploy/static/media/starrynight.91c8f1037db217d92118.jpg",
+    "index.html": "/react-movie-deploy/index.html",
+    "main.f1c9284b.css.map": "/react-movie-deploy/static/css/main.f1c9284b.css.map",
+    "main.a73a8150.js.map": "/react-movie-deploy/static/js/main.a73a8150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c9284b.css",
+    "static/js/main.a73a8150.js"
+  ]
+}
